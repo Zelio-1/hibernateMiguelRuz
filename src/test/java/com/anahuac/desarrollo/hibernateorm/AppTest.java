@@ -1,4 +1,4 @@
-package com.anahuac.desarrollo.enero2023;
+package com.anahuac.desarrollo.hibernateorm;
 
 import static org.junit.Assert.assertTrue;
 
